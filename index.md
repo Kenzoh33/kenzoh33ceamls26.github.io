@@ -18,7 +18,7 @@ image: /assets/images/vector-illustration-landscape-view-sunset-sunrise-sky-clou
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "The Art of Living Life"
   - label: Building
     text: "A small hand detection photo cleaner"
   - label: Wondering
