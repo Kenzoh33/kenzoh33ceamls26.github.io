@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like ping pong"
 
 linkedin: https://www.linkedin.com/in/rochakghimire/
-image: /assets/images/profile.svg
+image: /assets/images/vector-illustration-landscape-view-sunset-sunrise-sky-clouds-mountain-peaks-forest-website-background-forest-99083253.webp
 
 # A "Currently" block — three short status lines for the home page.
 currently:
