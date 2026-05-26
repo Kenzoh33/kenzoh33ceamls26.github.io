@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Rochak Ghimire
   role: Junior, Computer Science
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/rochakghimire/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Rochak, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
@@ -23,8 +23,8 @@ about:
       title: Digital Art
       description: I make small illustrations and pixel art in my spare time.
     - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+      title: Table Tennis
+      description: Long tennis games are how I reset.
     - icon: 📚
       title: Reading
       description: Sci-fi novels and design essays — both equally inspiring.
