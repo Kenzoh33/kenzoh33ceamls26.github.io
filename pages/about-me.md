@@ -9,7 +9,7 @@ about:
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/rochakghimire/
   bio: |
-    Hi! I'm Rochak, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+      Hi! I'm Rochak, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sits at how applied machine learning models can help shape tools for better and more efficient work. I'm especially curious about how everyday tools     can be made more accessible and adaptive through smart software.
 
