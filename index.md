@@ -20,7 +20,7 @@ currently:
   - label: Reading
     text: "The Design of Everyday Things — Don Norman"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "A small hand detection photo cleaner"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How agentic ai can solve future problems"
 ---
