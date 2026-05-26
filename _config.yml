@@ -8,7 +8,7 @@ title: Rochak Ghimire                             # <- your name
 author: Rochak Ghimire                           # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
 email:                                             # <- (optional) contact email for SEO
-url: https://Kenzoh33.github.io              # <- your final site URL (canonical SEO links)
+url: https://Kenzoh33ceamls26.github.io              # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
@@ -24,7 +24,7 @@ logo_on_dark:  /assets/images/logo-on-dark.png
 # ----- Theme selection -----
 # Choose one of: minimal | premium | fresh | signal
 # See README.md for screenshots of each theme.
-theme_name: premium
+theme_name: fresh
 
 # ----- Site behavior -----
 show_downloads: false
