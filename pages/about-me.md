@@ -11,17 +11,15 @@ about:
   bio: |
     Hi! I'm Rochak, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sits at how applied machine learning models can help shape tools for better and more efficient work. I'm especially curious about how everyday tools     can be made more accessible and adaptive through smart software.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
+    Outside of class, you'll find me watching soccer, learning languages, or working on small
     side projects with friends.
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      title: Personal Projects
+      description: I make personal tools and proejcts to help me automate my day-to-day life.
     - icon: 🚲
       title: Table Tennis
       description: Long tennis games are how I reset.
