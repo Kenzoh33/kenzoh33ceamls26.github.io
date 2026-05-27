@@ -7,7 +7,7 @@ graduate_mentor:
   name: Farouk Ganiyu-Adewumi
   title: PhD Candidate, Computer Engineering
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
   bio: |
     Farouk is a PhD candidate working on cardiovascular diseases detection and embedded machine learning.
     They've been an incredible mentor — patient with my questions and great at helping
@@ -20,7 +20,7 @@ faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Assistant Professor, Computer Science
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://timothyoladunni.com/
   bio: |
     Dr. Timothy explores computer science fundamental concepts in developing sustainable, efficient, and innovative solutions to real-world problems. Combining          theoretical analysis, and computational paradigms, with deductive reasoning, my lab uses scientific experimentation to understand patterns and discover              knowledge.     
 
