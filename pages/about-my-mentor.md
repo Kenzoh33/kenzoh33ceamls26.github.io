@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Assistant Professor, Computer Science
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/fc_mn.jpeg
   website: https://timothyoladunni.com/
   bio: |
     Dr. Timothy explores computer science fundamental concepts in developing sustainable, efficient, and innovative solutions to real-world problems. Combining          theoretical analysis, and computational paradigms, with deductive reasoning, my lab uses scientific experimentation to understand patterns and discover              knowledge.     
