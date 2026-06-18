@@ -25,5 +25,5 @@ faculty_mentor:
     Dr. Timothy explores computer science fundamental concepts in developing sustainable, efficient, and innovative solutions to real-world problems. Combining          theoretical analysis, and computational paradigms, with deductive reasoning, my lab uses scientific experimentation to understand patterns and discover              knowledge.     
 
     Dr. Timothy has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    participation in computing.Building trustworthy machine learning systems for high-stakes healthcare settings. Combining multimodal ECG analysis, explainable AI          methods, and computational epidemiology to detect risk earlier, characterize physiologic mechanisms, and ensure model decisions are transparent to clinicians and        public health leaders.
 ---
