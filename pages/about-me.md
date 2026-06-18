@@ -23,8 +23,8 @@ about:
       title: Reading
       description: Sci-fi novels and design essays — both equally inspiring.
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+    - image: assets/images/IMG_6825.JPG
+      caption: Sunset view.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
