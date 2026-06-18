@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Farouk Ganiyu-Adewumi
   title: PhD Candidate, Computer Engineering
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/ph_mn.jpeg
   website: https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
   bio: |
     Farouk is a PhD candidate working on cardiovascular diseases detection and embedded machine learning.
