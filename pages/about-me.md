@@ -5,7 +5,7 @@ permalink: /about-me.html
 about:
   name: Rochak Ghimire
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: /assets/images/my_pf.jpeg
   linkedin: https://www.linkedin.com/in/rochakghimire/
   bio: |
     Hi! I'm Rochak, a Computer Science student in the CEAMLS SAIRI Summer Research program.
