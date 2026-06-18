@@ -25,8 +25,8 @@ about:
   gallery:
     - image: assets/images/IMG_6825.JPG
       caption: Sunset view.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+    - image: assets/images/att.8K1goiETLY6QTZcJIYWV7cbSiCG-b-5Sh6NwYkjW4rQ.jpg
+      caption: Trip to beach.
     - image: assets/images/171771605790926.JPG
       caption: Trip with friends.
 ---
