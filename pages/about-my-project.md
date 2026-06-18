@@ -51,7 +51,7 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Farouk Adewumi
-  linkedin: https://www.linkedin.com/in/farouk-ganiyu-adewumi
+  linkedin: https://www.linkedin.com/in/farouk-ganiyu-adewumi-0aaa3a211/
 
 faculty_mentor:
   name: Dr. Timothy Oladunni
