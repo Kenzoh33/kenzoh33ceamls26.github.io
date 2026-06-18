@@ -45,9 +45,7 @@ approach: |
   ECG data
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+  Develop a functional AI model for predicting cardiovascular disease using ECG, ppg and respiratory signals.
 
 final_report_url: https://example.com/your-report.pdf
 
